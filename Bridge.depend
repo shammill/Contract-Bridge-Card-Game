@@ -1,0 +1,184 @@
+# depslib dependency file v1.0
+1397907994 source:b:\c_programming\bridge\src\bridge.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	"game.h"
+	"hand.h"
+	"deck.h"
+	"card.h"
+
+1397965952 b:\c_programming\bridge\include\game.h
+	"deck.h"
+	"card.h"
+	"hand.h"
+	<iostream>
+	<iomanip>
+	<fstream>
+
+1397906609 source:b:\c_programming\bridge\src\card.cpp
+	"card.h"
+	<iostream>
+
+1397906685 b:\c_programming\bridge\include\card.h
+	<iostream>
+
+1397967621 source:b:\c_programming\bridge\src\deck.cpp
+	"deck.h"
+	"card.h"
+	"random.h"
+	<algorithm>
+	<iostream>
+
+1397906686 b:\c_programming\bridge\include\deck.h
+	"card.h"
+
+1397972794 source:b:\c_programming\bridge\src\game.cpp
+	"game.h"
+	"deck.h"
+	"card.h"
+	"hand.h"
+	<iostream>
+	<iomanip>
+	<fstream>
+
+1397973034 source:b:\c_programming\bridge\src\hand.cpp
+	"hand.h"
+	"deck.h"
+	"card.h"
+	<iostream>
+	<set>
+
+1397965991 b:\c_programming\bridge\include\hand.h
+	"deck.h"
+	"card.h"
+	<set>
+
+1397199089 source:b:\c_programming\bridge\src\random.cpp
+	<cstdlib>
+	<ctime>
+	"random.h"
+
+1397199090 b:\c_programming\bridge\include\random.h
+
+1397974832 source:b:\c_programming\bridge\bridge.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	"game.h"
+	"hand.h"
+	"deck.h"
+	"card.h"
+
+1397965952 b:\c_programming\bridge\game.h
+	"deck.h"
+	"card.h"
+	"hand.h"
+	<iostream>
+	<iomanip>
+	<fstream>
+
+1397906686 b:\c_programming\bridge\deck.h
+	"card.h"
+
+1397906685 b:\c_programming\bridge\card.h
+	<iostream>
+
+1397965991 b:\c_programming\bridge\hand.h
+	"deck.h"
+	"card.h"
+	<set>
+
+1397906609 source:b:\c_programming\bridge\card.cpp
+	"card.h"
+	<iostream>
+
+1397967621 source:b:\c_programming\bridge\deck.cpp
+	"deck.h"
+	"card.h"
+	"random.h"
+	<algorithm>
+	<iostream>
+
+1397199090 b:\c_programming\bridge\random.h
+
+1397972794 source:b:\c_programming\bridge\game.cpp
+	"game.h"
+	"deck.h"
+	"card.h"
+	"hand.h"
+	<iostream>
+	<iomanip>
+	<fstream>
+
+1397974761 source:b:\c_programming\bridge\hand.cpp
+	"hand.h"
+	"deck.h"
+	"card.h"
+	<iostream>
+	<set>
+
+1397199089 source:b:\c_programming\bridge\random.cpp
+	<cstdlib>
+	<ctime>
+	"random.h"
+
+1398001756 source:e:\bachelor of it\uni 2014 semester 1\inb371 data structures and algorithms\assignment 1 - bridge hand evaluator\bridge\card.cpp
+	"card.h"
+	<iostream>
+
+1398001756 e:\bachelor of it\uni 2014 semester 1\inb371 data structures and algorithms\assignment 1 - bridge hand evaluator\bridge\card.h
+	<iostream>
+
+1398001756 source:e:\bachelor of it\uni 2014 semester 1\inb371 data structures and algorithms\assignment 1 - bridge hand evaluator\bridge\deck.cpp
+	"deck.h"
+	"card.h"
+	"random.h"
+	<algorithm>
+	<iostream>
+
+1398001756 e:\bachelor of it\uni 2014 semester 1\inb371 data structures and algorithms\assignment 1 - bridge hand evaluator\bridge\deck.h
+	"card.h"
+
+1398001756 e:\bachelor of it\uni 2014 semester 1\inb371 data structures and algorithms\assignment 1 - bridge hand evaluator\bridge\random.h
+
+1398001756 source:e:\bachelor of it\uni 2014 semester 1\inb371 data structures and algorithms\assignment 1 - bridge hand evaluator\bridge\game.cpp
+	"game.h"
+	"deck.h"
+	"card.h"
+	"hand.h"
+	<iostream>
+	<iomanip>
+	<fstream>
+
+1398001756 e:\bachelor of it\uni 2014 semester 1\inb371 data structures and algorithms\assignment 1 - bridge hand evaluator\bridge\game.h
+	"deck.h"
+	"card.h"
+	"hand.h"
+	<iostream>
+	<iomanip>
+	<fstream>
+
+1398001756 e:\bachelor of it\uni 2014 semester 1\inb371 data structures and algorithms\assignment 1 - bridge hand evaluator\bridge\hand.h
+	"deck.h"
+	"card.h"
+	<set>
+
+1398001756 source:e:\bachelor of it\uni 2014 semester 1\inb371 data structures and algorithms\assignment 1 - bridge hand evaluator\bridge\hand.cpp
+	"hand.h"
+	"deck.h"
+	"card.h"
+	<iostream>
+	<set>
+
+1398001756 source:e:\bachelor of it\uni 2014 semester 1\inb371 data structures and algorithms\assignment 1 - bridge hand evaluator\bridge\random.cpp
+	<cstdlib>
+	<ctime>
+	"random.h"
+
+1398001828 source:e:\bachelor of it\uni 2014 semester 1\inb371 data structures and algorithms\assignment 1 - bridge hand evaluator\bridge\bridge.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	"game.h"
+
